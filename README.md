@@ -1,2 +1,2 @@
-# is-touching
-condition to check whether two objects are touching
+# p5.play-boilerplate
+Boiler plate for p5.play
